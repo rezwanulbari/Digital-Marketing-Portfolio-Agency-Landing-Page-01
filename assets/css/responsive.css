@@ -1,0 +1,743 @@
+
+
+/* Big Screen Layout: 1280px. */
+
+@media only screen and (min-width: 1440) and (max-width: 1920) {
+	.hero-area {
+		height: 850px;
+	}
+}
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.call-button a {
+		font-size: 12px;
+	}
+	.hero-content h1 {
+		font-size: 40px;
+	}
+	.hero-content {
+		margin-top: 0;
+	}
+	.hero-area-social ul li {
+		display: inline-block;
+		padding: 0 10px;
+	}
+	.hero-area-social {
+		padding: 0 50px;
+		top: 510px;
+	}
+	.agency-details h2 {
+		font-size: 40px;
+	}
+	.cta-text h2 {
+		font-size: 30px;
+	}
+	.price-swetch ul li a {
+		padding: 10px 30px;
+	}
+	.testimonail-img {
+		width: 40%;
+		margin-left: 10%;
+	}
+	.testimonial-content p {
+		font-size: 18px;
+		margin: 20px auto;
+	}
+	.owl-carousel .owl-nav {
+		bottom: 10px;
+	}
+	.blog-content h2 {
+		font-size: 20px;
+	}
+	.blog-meta span {
+		margin-right: -25px;
+	}
+	.subscribe-box h2 {
+		font-size: 40px;
+	}
+	.subscribe-box p {
+		font-size: 16px;
+	}
+	.widget-menu li a {
+		font-size: 14px;
+	}
+	.breadcrumb-area {
+		padding: 120px 0;
+	}
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	p,
+	.section-title p,
+	.price-content p {
+		font-size: 12px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.logo img {
+		width: 50%;
+	}
+	.main-menu ul li a {
+		font-size: 14px;
+		font-weight: 400;
+		padding: 10px 5px;
+	}
+	.call-button {
+		padding: 10px;
+	}
+	.call-button a {
+		font-weight: 400;
+		font-size: 8px;
+	}
+	.hero-content h1 {
+		font-size: 30px;
+	}
+	.portfolio-content {
+		top: 60%;
+	}
+	.hero-area-social ul li {
+		display: inline-block;
+		padding: 0 5px;
+	}
+	.hero-area-social {
+		padding: 0 50px;
+		top: 550px;
+	}
+	.viso-btn {
+		display: inline-block;
+		padding: 15px 20px;
+		margin-right: 20px;
+		border-radius: 30px;
+		font-size: 14px;
+	}
+	.single-work h2 {
+		font-size: 16px;
+	}
+	.single-work p,
+	.testimonial-content p,
+	.discover-title p {
+		font-size: 14px;
+	}
+	.discover-title h2 {
+		font-size: 30px;
+	}
+	.portfolio-content h3 {
+		font-size: 16px;
+	}
+	.cta-text h2 {
+		font-size: 24px;
+		line-height: 50px;
+		margin: 0;
+	}
+	.single-team h2 {
+		font-size: 18px;
+	}
+	.agency-details h2 {
+		font-size: 20px;
+	}
+	.viso-btn.discover {
+		padding: 14px 40px;
+		line-height: 26px;
+	}
+	.counter-project h1 {
+		font-size: 40px;
+	}
+	.counter-project span {
+		font-size: 16px;
+	}
+	.price-swetch ul li a {
+		padding: 5px 20px;
+		font-size: 12px;
+	}
+	.price-content span {
+		font-size: 40px;
+	}
+	.price-content .viso-btn.price {
+		font-size: 12px;
+	}
+	.testimonial-content {
+		margin-top: 0;
+	}
+	.testimonial-content p {
+		margin: 10px auto;
+		line-height: 24px;
+		;
+	}
+	.blog-content h2 {
+		font-size: 14px;
+	}
+	.blog-img img {
+		height: auto;
+	}
+	.blog-meta span {
+		font-size: 10px;
+		margin-right: -35px;
+	}
+	.owl-carousel .owl-item .testimonail-img img {
+		display: block;
+		width: 60%;
+		margin-left: 0;
+	}
+	.testimonial-content {
+		width: 50%;
+		float: right;
+		position: absolute;
+		right: 0;
+	}
+	.testimonial-content p {
+		margin: 0px auto 20px auto;
+	}
+	.owl-carousel .owl-dots.disabled,
+	.owl-carousel .owl-nav {
+		bottom: 0;
+	}
+	.subscribe-box h2 {
+		font-size: 24px;
+	}
+	.subscribe-box p {
+		font-size: 12px;
+	}
+	.subscribe-wrapper {
+		padding: 110px 0;
+	}
+	.subscribe-form form button i.flaticon-send::before {
+		font-size: 30px;
+	}
+	.widget-menu li a {
+		font-size: 10px;
+	}
+	.about-widget ul li p {
+		display: inline-block;
+	}
+	.about-widget>ul>li>i {
+		margin-right: 10px;
+	}
+	.breadcrumb-area h2 {
+		font-size: 50px;
+		padding-bottom: 0;
+	}
+	.breadcrumb-area {
+		padding: 180px 0;
+	}
+	.breadcrumb-area ul li {
+		padding: 0 10px;
+	}
+	.breadcrumb-area ul li a {
+		font-size: 20px;
+	}
+	.breadcrumb-area ul li::before {
+		font-size: 14px;
+	}
+	.latest-news-widget {
+		text-align: center;
+	}
+	.latest-news-title {
+		float: left;
+		margin-left: -30px;
+	}
+	/*Home */
+	.hero-area.home-2 {
+		height: 600px;
+	}
+	.hero-area.home-2 .hero-content {
+		padding-top: 130px;
+		margin: 0;
+	}
+	.hero-area.home-2 .hero-content h1 {
+		font-size: 40px;
+		margin: 0;
+		line-height: 40px;
+	}
+	.hero-area.home-2 .hero-content h4 {
+		font-size: 14px;
+		margin-bottom: 10px;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 20px;
+	}
+}
+
+
+/* Mobile Layout: 767px. */
+
+@media only screen and (max-width: 767px) {
+	p,
+	.section-title p {
+		font-size: 14px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.main-menu {
+		display: none;
+	}
+	#mobile-menu {
+		display: block;
+		position: absolute;
+		left: 0;
+		right: 0;
+	}
+	.sticky {
+		padding: 10px 10px;
+	}
+	.call-button {
+		display: none;
+	}
+	.hero-area-social {
+		display: inline-block;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		text-align: center;
+		top: 370px;
+	}
+	.hero-content h1 {
+		font-size: 30px;
+	}
+	.hero-content {
+		margin-top: 110px;
+		text-align: center;
+	}
+	.hero-area {
+		height: 450px;
+	}
+	.viso-btn.hero,
+	.viso-btn.two {
+		padding: 10px 25px;
+		font-size: 12px;
+		margin-right: 15px;
+	}
+	.hero-area-social ul li {
+		margin-bottom: 25px;
+		display: inline-block;
+		padding: 20px 5px;
+	}
+	.discover-title h2 {
+		font-size: 30px;
+	}
+	.discover-title p {
+		font-size: 14px;
+	}
+	.owl-dots .owl-dot {
+		width: 15px;
+		height: 15px;
+		margin: 0px 5px;
+	}
+	.owl-dots .owl-dot.active {
+		width: 20px;
+		height: 20px;
+		margin: -2px 5px;
+	}
+	.portfolio-menu ul li {
+		padding: 30px 10px;
+		font-size: 10px;
+		font-weight: 400;
+	}
+	.portfolio-content h3 {
+		font-size: 10px;
+		font-weight: 400;
+	}
+	.portfolio-content p {
+		font-size: 8px;
+		font-weight: 300;
+	}
+	.cta-area {
+		text-align: center;
+	}
+	.cta-text h2 {
+		font-size: 36px;
+		font-weight: 400;
+		text-align: center;
+	}
+	.about-agency {
+		background-position: unset;
+	}
+	.agency-details {
+		padding: 0 0;
+		text-align: center;
+	}
+	.agency-details h2 {
+		font-size: 30px;
+		font-weight: 600;
+	}
+	.counter-project {
+		padding: 50px 0;
+		border: 1px solid rgba(255, 59, 51, 0.15);
+	}
+	.single-team,
+	.pricing-table,
+	.counter-project,
+	.owl-dots {
+		margin: 30px 0;
+	}
+	.viso-btn.discover {
+		margin: 20px 0;
+	}
+	.section-title.effect.text-left {
+		text-align: center !important;
+	}
+	.price-swetch {
+		width: 100%;
+		text-align: center;
+	}
+	.price-swetch ul li,
+	.price-swetch ul {
+		display: inline-block;
+	}
+	.section-title.effect h2::after {
+		right: 0;
+	}
+	.testimonail-img {
+		width: 35%;
+		margin-left: 10%;
+	}
+	.testimonial-content {
+		padding: 0;
+		width: 50%;
+	}
+	.flaticon-right-quote::before {
+		font-size: 50px;
+	}
+	.testimonial-content p {
+		font-size: 10px;
+		margin: 0;
+	}
+	.testimonial-content h3 {
+		font-size: 16px;
+		margin-top: 15px;
+	}
+	.testimonial-content span {
+		font-size: 12px;
+	}
+	.owl-carousel .owl-nav {
+		bottom: -35px;
+	}
+	.flaticon-next::before,
+	.flaticon-back::before {
+		font-size: 14px;
+	}
+	.blog-area {
+		text-align: center;
+	}
+	.widget-link {
+		margin: 50px 0;
+		overflow: hidden;
+	}
+	.footer-logo,
+	.copyright-text>p {
+		text-align: center;
+	}
+	.breadcrumb-area {
+		padding: 120px 0;
+	}
+	.breadcrumb-area h2 {
+		font-size: 20px;
+		margin-top: 70px;
+	}
+	.breadcrumb-area ul li a {
+		font-size: 16px;
+	}
+	.breadcrumb-area ul li::before {
+		right: -5px;
+		top: 6px;
+		font-size: 14px;
+	}
+	.blog-posts-meta ul li {
+		padding: 25px 25px 25px 0;
+	}
+	.blog-title a {
+		color: #0a0c19;
+		font-weight: 600;
+		font-size: 18px;
+		text-transform: capitalize;
+	}
+	.latest-news-widget {
+		text-align: center;
+	}
+	.latest-news-title {
+		float: none;
+	}
+	.latest-news-title p {
+		font-size: 14px;
+		margin: 5px 0;
+		text-align: center;
+	}
+	/*home */
+	.hero-area.home-2 .hero-content h1 {
+		font-size: 35px;
+		margin: 0;
+		line-height: 40px;
+	}
+	.hero-area.home-2 .hero-content h1 {
+		font-size: 35px;
+		margin: 15px 0px;
+		line-height: 40px;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 10px;
+	}
+	.hero-area.home-2 {
+		height: 620px;
+	}
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 391px) and (max-width: 500px) {
+	.cta-text h2 {
+		font-size: 30px;
+	}
+	.hero-area-social {
+		top: 380px;
+	}
+	.portfolio-content {
+		top: 60%;
+	}
+	.portfolio-content h3 {
+		font-size: 8px;
+		margin: 0;
+	}
+	.portfolio-content p {
+		font-size: 6px;
+		margin: 5px 0;
+	}
+	.portfolio-menu ul li {
+		padding: 20px 10px;
+		font-size: 8px;
+	}
+	.testimonial-content {
+		margin-top: -15px;
+		width: 50%;
+		margin-right: 20px;
+	}
+	.testimonial-content p {
+		font-size: 8px;
+		margin: 0;
+	}
+	.testimonial-content h3 {
+		font-size: 12px;
+		margin: 15px 0 0;
+	}
+	.testimonial-content span {
+		font-size: 8px;
+	}
+	.owl-carousel .owl-nav {
+		bottom: -20px;
+		left: 0;
+	}
+	.flaticon-next::before,
+	.flaticon-back::before {
+		font-size: 14px;
+	}
+	/*home 2*/
+		.hero-area.home-2 {
+		height: 460px;
+	}
+	.hero-area.home-2 .hero-content h4 {
+		font-size: 10px;
+		margin-bottom: 0;
+	}
+	.hero-area.home-2 .hero-content h1 {
+		font-size: 28px;
+		margin: 10px 0px;
+		line-height: 34px;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 0;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 0;
+		padding: 6px 20px;
+		font-size: 10px;
+	}
+}
+
+
+/* small Layout: 390px. */
+
+@media only screen and (max-width: 390px) {
+	.section-title h2 {
+		font-size: 20px;
+	}
+	.section-title p {
+		font-size: 12px;
+	}
+	.hero-content h1 {
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+	.hero-content {
+		margin-top: 60px;
+	}
+	.hero-area-social {
+		top: 350px;
+	}
+	.viso-btn.hero,
+	.viso-btn.two {
+		padding: 10px 15px;
+		font-size: 12px;
+		margin: 0 10px 0 0;
+	}
+	.dicover-list li i {
+		margin-bottom: 30px;
+	}
+	.portfolio-content {
+		top: 70%;
+	}
+	.portfolio-content h3 {
+		font-size: 8px;
+		margin: -5px 0;
+	}
+	.portfolio-content p {
+		font-size: 6px;
+	}
+	.portfolio-menu ul li {
+		padding: 20px 5px;
+		font-size: 8px;
+	}
+	.portfolio-menu ul li::after {
+		right: -3px;
+	}
+	.cta-text h2 {
+		font-size: 24px;
+	}
+	.agency-details h2 {
+		font-size: 20px;
+		font-weight: 600;
+	}
+	.price-swetch ul li a {
+		padding: 6px 30px;
+		font-size: 12px;
+	}
+	.testimonail-img {
+		width: 40%;
+		margin-left: 5%;
+	}
+	.testimonial-content {
+		margin-top: -15px;
+		width: 50%;
+	}
+	.testimonial-content p {
+		font-size: 8px;
+		margin: 0;
+		line-height: 14px;
+	}
+	.testimonial-content h3 {
+		font-size: 12px;
+		margin: 10px 0 -5px;
+	}
+	.testimonial-content span {
+		font-size: 8px;
+	}
+	.owl-carousel .owl-nav {
+		bottom: -20px;
+		left: 30px;
+	}
+	.flaticon-next::before,
+	.flaticon-back::before {
+		font-size: 12px;
+	}
+	.blog-content h2 {
+		font-size: 18px;
+		font-weight: 500;
+		margin: 20px 0;
+	}
+	.blog-meta span {
+		padding-right: 20px;
+		font-size: 10px;
+	}
+	.about-widget ul li p {
+		overflow: hidden;
+		display: inline-block;
+	}
+	.breadcrumb-area h2 {
+		font-size: 24px;
+		padding: 0;
+		margin-top: 60px;
+	}
+	.breadcrumb-area ul li a {
+		font-size: 14px;
+	}
+	.breadcrumb-area ul li::before {
+		top: 2px;
+		font-size: 12px;
+	}
+	.widget-menu li a {
+		font-size: 14px;
+	}
+	.blog-posts-meta ul li {
+		padding: 20px 10px 14px 0;
+		font-size: 10px;
+	}
+	.blog-Pagination a {
+		font-size: 10px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		font-weight: 400;
+		margin-right: 10px;
+	}
+	.blog-Pagination a i {
+		font-weight: 400;
+		font-size: 14px;
+	}
+	.single-posts h2 {
+		font-size: 20px;
+	}
+	.single-post-meta ul li {
+		padding-right: 14px;
+		font-size: 10px;
+	}
+	.single-posts blockquote p {
+		font-size: 14px;
+	}
+	.image-content img {
+		float: none;
+		padding-right: 0;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.post-tags {
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+	.post-share {
+		text-align: center;
+		padding-top: 20px;
+		float: none;
+	}
+	.comment-box.children {
+		margin-left: 60px;
+	}
+		/*home 2*/
+		.hero-area.home-2 {
+		height: 460px;
+	}
+	.hero-area.home-2 .hero-content h4 {
+		font-size: 10px;
+		margin-bottom: 0;
+	}
+	.hero-area.home-2 .hero-content h1 {
+		font-size: 28px;
+		margin: 10px 0px;
+		line-height: 34px;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 0;
+	}
+	.hero-area.home-2 .hero-content .viso-btn {
+		margin-top: 0;
+		padding: 6px 20px;
+		font-size: 10px;
+	}
+}
+
